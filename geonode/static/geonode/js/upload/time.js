@@ -1,4 +1,4 @@
-/*globals define: true, requirejs: true */
+/*global define: true, requirejs: true */
 
 requirejs.config({
     baseUrl: '/static/lib/js',
